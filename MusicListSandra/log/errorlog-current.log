@@ -1,0 +1,28 @@
+[ERROR] | 2018-03-02 15:07:16.329 | [main] music.PlayListDAO (MusicListDAO.java:76) | [main] com.sandra.musiclist.music.MusicListDAO - {} | [SQLITE_ERROR] SQL error or missing database (no such table: Music)
+[ERROR] | 2018-03-02 15:07:16.329 | [main] music.PlayListDAO (MusicListDAO.java:76) | [main] com.sandra.musiclist.music.MusicListDAO - {} | [SQLITE_ERROR] SQL error or missing database (no such table: Music)
+[ERROR] | 2018-03-02 15:10:35.018 | [main] music.PlayListDAO (PlayListDAO.java:71) | [main] com.sandra.musiclist.music.PlayListDAO - {} | [SQLITE_ERROR] SQL error or missing database (no such table: UserMusic)
+[ERROR] | 2018-03-02 15:10:35.018 | [main] music.PlayListDAO (PlayListDAO.java:71) | [main] com.sandra.musiclist.music.PlayListDAO - {} | [SQLITE_ERROR] SQL error or missing database (no such table: UserMusic)
+[ERROR] | 2018-03-02 15:14:24.549 | [main] music.PlayListDAO (PlayListDAO.java:71) | [main] com.sandra.musiclist.music.PlayListDAO - {} | [SQLITE_ERROR] SQL error or missing database (no such table: db.usermusic)
+[ERROR] | 2018-03-02 15:14:24.549 | [main] music.PlayListDAO (PlayListDAO.java:71) | [main] com.sandra.musiclist.music.PlayListDAO - {} | [SQLITE_ERROR] SQL error or missing database (no such table: db.usermusic)
+[ERROR] | 2018-03-02 15:26:32.421 | [main] music.PlayListDAO (PlayListDAO.java:71) | [main] com.sandra.musiclist.music.PlayListDAO - {} | [SQLITE_NOTADB]  File opened that is not a database file (file is not a database)
+[ERROR] | 2018-03-02 15:26:32.421 | [main] music.PlayListDAO (PlayListDAO.java:71) | [main] com.sandra.musiclist.music.PlayListDAO - {} | [SQLITE_NOTADB]  File opened that is not a database file (file is not a database)
+[ERROR] | 2018-03-02 15:28:11.444 | [main] music.PlayListDAO (PlayListDAO.java:71) | [main] com.sandra.musiclist.music.PlayListDAO - {} | [SQLITE_NOTADB]  File opened that is not a database file (file is not a database)
+[ERROR] | 2018-03-02 15:28:11.444 | [main] music.PlayListDAO (PlayListDAO.java:71) | [main] com.sandra.musiclist.music.PlayListDAO - {} | [SQLITE_NOTADB]  File opened that is not a database file (file is not a database)
+[ERROR] | 2018-03-02 15:29:33.674 | [main] music.PlayListDAO (PlayListDAO.java:71) | [main] com.sandra.musiclist.music.PlayListDAO - {} | [SQLITE_ERROR] SQL error or missing database (no such table: db.usermusic)
+[ERROR] | 2018-03-02 15:29:33.674 | [main] music.PlayListDAO (PlayListDAO.java:71) | [main] com.sandra.musiclist.music.PlayListDAO - {} | [SQLITE_ERROR] SQL error or missing database (no such table: db.usermusic)
+[ERROR] | 2018-03-02 15:50:19.248 | [main] music.PlayListDAO (PlayListDAO.java:71) | [main] com.sandra.musiclist.music.PlayListDAO - {} | [SQLITE_ERROR] SQL error or missing database (no such table: db.usermusic)
+[ERROR] | 2018-03-02 15:50:19.248 | [main] music.PlayListDAO (PlayListDAO.java:71) | [main] com.sandra.musiclist.music.PlayListDAO - {} | [SQLITE_ERROR] SQL error or missing database (no such table: db.usermusic)
+[ERROR] | 2018-03-02 16:11:42.821 | [main] music.PlayListDAO (MusicListDAO.java:76) | [main] com.sandra.musiclist.music.MusicListDAO - {} | [SQLITE_ERROR] SQL error or missing database (near "where": syntax error)
+[ERROR] | 2018-03-02 16:11:42.821 | [main] music.PlayListDAO (MusicListDAO.java:76) | [main] com.sandra.musiclist.music.MusicListDAO - {} | [SQLITE_ERROR] SQL error or missing database (near "where": syntax error)
+[ERROR] | 2018-03-02 16:26:55.425 | [main] music.PlayListDAO (MusicListDAO.java:75) | [main] com.sandra.musiclist.music.MusicListDAO - {} | Error parsing time stamp
+[ERROR] | 2018-03-02 16:26:55.425 | [main] music.PlayListDAO (MusicListDAO.java:75) | [main] com.sandra.musiclist.music.MusicListDAO - {} | Error parsing time stamp
+[ERROR] | 2018-03-02 16:31:07.384 | [main] music.PlayListDAO (MusicListDAO.java:73) | [main] com.sandra.musiclist.music.MusicListDAO - {} | Error parsing time stamp
+[ERROR] | 2018-03-02 16:31:07.384 | [main] music.PlayListDAO (MusicListDAO.java:73) | [main] com.sandra.musiclist.music.MusicListDAO - {} | Error parsing time stamp
+[ERROR] | 2018-03-02 16:32:09.699 | [main] music.PlayListDAO (MusicListDAO.java:73) | [main] com.sandra.musiclist.music.MusicListDAO - {} | Error parsing time stamp
+[ERROR] | 2018-03-02 16:32:09.699 | [main] music.PlayListDAO (MusicListDAO.java:73) | [main] com.sandra.musiclist.music.MusicListDAO - {} | Error parsing time stamp
+[ERROR] | 2018-03-02 17:10:23.510 | [main] music.PlayListDAO (MusicListDAO.java:76) | [main] com.sandra.musiclist.music.MusicListDAO - {} | Error parsing time stamp
+[ERROR] | 2018-03-02 17:10:23.510 | [main] music.PlayListDAO (MusicListDAO.java:76) | [main] com.sandra.musiclist.music.MusicListDAO - {} | Error parsing time stamp
+[ERROR] | 2018-03-02 19:03:53.815 | [main] user.UserDAO (UserDAO.java:72) | [main] com.sandra.musiclist.user.UserDAO - {} | no such column: 'firstName'
+[ERROR] | 2018-03-02 19:03:53.815 | [main] user.UserDAO (UserDAO.java:72) | [main] com.sandra.musiclist.user.UserDAO - {} | no such column: 'firstName'
+[ERROR] | 2018-03-02 19:05:49.559 | [main] user.UserDAO (UserDAO.java:72) | [main] com.sandra.musiclist.user.UserDAO - {} | no such column: 'userEmail'
+[ERROR] | 2018-03-02 19:05:49.559 | [main] user.UserDAO (UserDAO.java:72) | [main] com.sandra.musiclist.user.UserDAO - {} | no such column: 'userEmail'

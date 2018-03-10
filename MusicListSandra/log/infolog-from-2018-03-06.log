@@ -1,0 +1,16 @@
+[INFO ] | 2018-03-06 18:44:51.994 | [main] musiclist.App (App.java:36) | Commandline requested log level:
+[INFO ] | 2018-03-06 18:44:51.994 | [main] musiclist.App (App.java:36) | Commandline requested log level:
+[INFO ] | 2018-03-06 18:44:52.057 | [main] musiclist.App (App.java:37) | Application started with log level debug:
+[INFO ] | 2018-03-06 18:44:52.057 | [main] musiclist.App (App.java:37) | Application started with log level debug:
+[INFO ] | 2018-03-06 18:45:02.997 | [main] music.PlayListDAO (PlayListDAO.java:29) | Start connection
+[INFO ] | 2018-03-06 18:45:02.997 | [main] music.PlayListDAO (PlayListDAO.java:29) | Start connection
+[INFO ] | 2018-03-06 18:45:04.916 | [main] music.PlayListDAO (PlayListDAO.java:37) | success connection
+[INFO ] | 2018-03-06 18:45:04.916 | [main] music.PlayListDAO (PlayListDAO.java:37) | success connection
+[INFO ] | 2018-03-06 18:45:14.266 | [main] music.PlayListDAO (MusicListDAO.java:29) | Start connection
+[INFO ] | 2018-03-06 18:45:14.266 | [main] music.PlayListDAO (MusicListDAO.java:29) | Start connection
+[INFO ] | 2018-03-06 18:45:14.266 | [main] music.PlayListDAO (MusicListDAO.java:39) | success connection
+[INFO ] | 2018-03-06 18:45:14.266 | [main] music.PlayListDAO (MusicListDAO.java:39) | success connection
+[INFO ] | 2018-03-06 18:45:28.585 | [main] music.PlayListDAO (MusicListDAO.java:29) | Start connection
+[INFO ] | 2018-03-06 18:45:28.585 | [main] music.PlayListDAO (MusicListDAO.java:29) | Start connection
+[INFO ] | 2018-03-06 18:45:28.585 | [main] music.PlayListDAO (MusicListDAO.java:39) | success connection
+[INFO ] | 2018-03-06 18:45:28.585 | [main] music.PlayListDAO (MusicListDAO.java:39) | success connection
